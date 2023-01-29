@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestApiDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Starting rest app");
 		SpringApplication.run(RestApiDemoApplication.class, args);
 	}
 }
